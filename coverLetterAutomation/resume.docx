@@ -1,0 +1,58 @@
+Dennis Conner
+Wilmington, DE |302-299-2695|dennisedwardconner@gmail.com |linkedin.com/in/dennis-edward-conner| github.com/DennisEdwardConner 
+
+Full-stack developer with previous experience spanning business and people management (7+ years), operations, events, customer engagement, and employee training in the logistics, food and retail industries. Proactively tapped for leadership roles with each employer based on strong performance and ability to develop and lead others in teams.
+
+RELEVANT SKILLS
+Languages: Java, JavaScript, SQL 			                             Back End: Spring Boot, PostgreSQL, JUnit
+Development Tools: IntelliJ, Visual Studio Code, pgAdmin, Git	         Front End: React, Redux, Bootstrap, HTML5, CSS, Jest	
+Methodologies: Agile, CI/CD, Microservices
+
+SOFTWARE PROJECTS
+OnTapp |Brewery Finder Site | Java, Spring Boot, PostgreSQL, RESTful API, React, Redux
+This site allows the users to submit reviews of beers and see all of the breweries near them. It also allows the owners to edit their brewery information and list of beers or even deactivate their brewery 
+Oversaw backend creation of models, interfaces, jdbcTemplates, controllers  
+Championed the data conversions for over 7,000 breweries and created Tableau Live Map to locate breweries with drop pins
+
+TEnmo | Money Transfer Application | Java, Spring Boot, PostgreSQL, RESTful API, Spring Data JPA, Spring Security
+Peer-to-peer money transfer application allowing users to send, request, and approve money transfers. Front-end is a command-line application communicating with a RESTful API server in the back-end.
+Implemented User Interface and handled authentication
+Tested interface execution
+
+Vendo-Matic 800 | Virtual Vending Machine Application | Java, OOP, File I/O
+Virtual vending machine application with command-line interface allowing users to deposit money, choose a product, and return the correct change. Inventory is loaded via a text file and transactions are also logged to a text file.
+Designed item classes and handled the instantiation of item arrays in the application
+Managed override methods to create item specific sounds
+
+PROFESSIONAL EXPERIENCE
+Flex Driver Amazon, Wilmington, DE								10/2021 - Current
+Editing dispatch and / or / route planning to cut drive time and increase efficiency 
+Manage customer relation interactions for packages outside of quoted delivery time, increasing customer retention
+Self-managed vehicle loading expert increasing carrying efficiency of the vehicle by 100 packages
+
+General Manager MSK Management, Middletown, DE	          					06/2020 - 10/2021 
+Oversaw hiring, training, scheduling of 33 employees, leading to better employee retention and morale
+Handled customer relations to increase customer satisfaction and sales by 30%
+Analyzed profit and loss statement to decrease waste and increase revenue by 12% 
+Tracked iInventory for US Foods, Coke, and Restaurant Store, eliminating supply shortages
+
+Enumerator United States Census Bureau, Newark, DE 	          					06/2020 - 08/2020
+Collected household and demographic information of 23,774 residents for the Census Bureau in the 3 month timeframe
+Led University of Delaware restricted access team resulting in over 500+ individuals counted
+Executed specialized interpretation assignments for deaf/hard of hearing households, reducing the number of uncounted homes due to lack of ASL interpretation
+
+Food and Beverage Supervisor HMSHost, Newark, DE          						06/2017 - 06/2020
+Managed compliance and conducted monthly safety audits resulting in multiple perfect scores on federal audits 
+Completed inventory and strategically purchased food orders, increasing efficiency and reducing waste by 34%       
+Attained ServSafe Certification and completed training to work each restaurant of the plaza to increase efficiency during busy seasons
+Coordinated staff schedules, allocated resources interdepartmentally, and mentored new hires which increased morale and employee retention
+
+Comprehensive Health and Safety Process Supervisor UPS,  Newcastle, DE	     			10/2014 - 06/2017
+Analyzed data on the most common/severe injuries and assign activities to committee members,  leading to zero injuries or accidents  
+Created over 100 new safety activities and assembled them in a shared folder for the entire company to pull from                                   
+Conducted CHSP meetings as co-chair and assign activities to 52 members which fostered a safety oriented culture at the facility
+Trained all operation and management employees, leading to full safety compliance for over 500 employees
+
+EDUCATION
+Java Development Program, Merit America          								11/2022
+A 30-week intensive program focused on Full Stack Web Application Development, including hands-on coursework in Java Development, Client-Server Programming (SQL + Spring), and Frontend Development (Classic Web + React).2022
